@@ -1,6 +1,6 @@
 # CMPG323-Project-2---30586453
 
-![1_a6X94xx-nFIRIcmtgdoBMQ](https://user-images.githubusercontent.com/84228144/188482036-b9c38f43-f68c-4432-9fa4-cc971bc09025.gif)
+![image](https://user-images.githubusercontent.com/84228144/188483008-6ec558ff-a0cd-4a83-b9d8-ddf3679dbb89.png)
 
 
 ## About the Project:
