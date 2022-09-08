@@ -28,3 +28,12 @@ The API is secured in the sense not everyone has access to it right away. You mu
 
 ## Usage:
 Upon accessing the API, the user must register an account. Then the user may proceed to login. The user should request a token when accessing tables and manipulating data contained in those tables. The account that should be registered is the admin one because it is the only one that is authorized to access the tables.
+
+### Registering an account:
+The user must register an admin user because it is the only role that is authorized to access he tables and table manipulation.
+
+### Logging in:
+The user must click on the login button and insert the newly registered credentials.After logging in the user will receive the token. That token must be saved as will be used to access the tables since this system uses a tokeen based security.
+
+### Working with tables:
+Before doing anything the user must click on the lock logo to get authorization to access the tables. A window will appear where they will need to type "Bearer" followed by the token they received when logging in. Thereafter the user can use the POST, GET, PUSH and more funtionalities of the system.
