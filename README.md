@@ -37,3 +37,25 @@ The user must click on the login button and insert the newly registered credenti
 
 ### Working with tables:
 Before doing anything the user must click on the lock logo to get authorization to access the tables. A window will appear where they will need to type "Bearer" followed by the token they received when logging in. Thereafter the user can use the POST, GET, PUSH and more funtionalities of the system.
+
+## API Manager Endpoints:
+![Screenshot (29)](https://user-images.githubusercontent.com/84228144/189864338-c40f77bc-c986-4f54-99a1-3cf20537de72.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/84228144/189864346-98dbc20c-675d-4674-9feb-f87cc19ec790.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/84228144/189864354-74429dee-d16f-4300-8cee-9648b8bdf8c0.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/84228144/189864356-293a1ac1-b191-455e-ac2d-dd1e6fce9713.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/84228144/189864357-53f7a5cb-92be-4ccf-a499-b98c3eba2e11.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/84228144/189864359-28741b0e-b1cd-4a35-9dc8-85069e2efcb0.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/84228144/189864361-85122a54-ca51-46bc-8408-dce90261da46.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/84228144/189864364-6c2f765c-755f-4e66-b422-b2572d598197.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/84228144/189864367-02c98dd9-d3c1-4b88-b190-01b8371ccd4d.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/84228144/189864373-8f61785f-172a-451a-aae0-386e17bdf8cb.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/84228144/189864375-f687f746-865a-463f-a948-5a89b9b48c30.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/84228144/189864376-347ec8ba-b764-49fc-9241-543593a65efb.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/84228144/189864378-e8de3e89-c484-43a3-9596-76e511d055a7.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/84228144/189864382-69f3c998-dfa2-4bc3-8cfe-7dba28db521b.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/84228144/189864388-9799e3d8-1f81-419b-b1b3-d260620ec27f.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/84228144/189864391-ded9dbf8-bf87-4161-97a9-31f8446bb765.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/84228144/189864396-862f5e0f-b505-4d8b-a908-26e6e809ccad.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/84228144/189864402-5857e26e-fd1c-4ccc-a00a-4315f7d16b62.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/84228144/189864403-c2225985-f049-49d5-9150-7a96083d20ce.png)
+
